@@ -23,7 +23,7 @@
         "-d", "--disorder",
         "-o", "--oob",
         "-q", "--disoob",
-        "-f", "--fake ",
+        "-f", "--fake",
         "-t", "--ttl",
         "-O", "--fake-offset",
         "-l", "--fake-data",
